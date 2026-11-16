@@ -18,4 +18,4 @@
 
 ## 📫 Reach me
 
-🌐 [abdi.abdisalan.me](https://abdi.abdisalan.me)
+🌐 [abdisalan.me](https://abdisalan.me)
