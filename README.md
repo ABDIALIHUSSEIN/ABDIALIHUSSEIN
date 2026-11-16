@@ -1,4 +1,19 @@
- Hi, I’m @Abdisalan Ali
- I’m interested in tech and innovation ...
- Building AI systems, one integration at a time.
- Reach out to me: abdi.abdisalan.me ...
+# Hi, I'm Abdisalan Ali 👋
+
+**Building AI systems, one integration at a time.**
+
+## 🔨 What I'm working on
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**abdisalan-ai**](https://github.com/ABDIALIHUSSEIN/abdisalan-ai) | AI digital-twin portfolio chatbot: ask it about me. [Live demo →](https://abdisalan-ai.vercel.app) | Next.js · TypeScript · Claude API |
+| [**amc-hrms**](https://github.com/ABDIALIHUSSEIN/amc-hrms) | HR management system | JavaScript · HTML/CSS |
+| **ASAL Media** | Corporate site for [asalmediacorp.com](https://asalmediacorp.com) | HTML · Cloudflare Pages |
+
+## 🧰 Tools I use
+
+`TypeScript` `JavaScript` `Next.js` `Claude API` `Vercel` `Cloudflare`
+
+## 📫 Reach me
+
+🌐 [abdi.abdisalan.me](https://abdi.abdisalan.me)
