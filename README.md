@@ -6,8 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=620&lines=Building+AI+systems%2C+one+integration+at+a+time;Claude+API+%C2%B7+OpenAI+%C2%B7+ElevenLabs;Next.js+%C2%B7+Supabase+%C2%B7+Expo+%C2%B7+Python;Building+from+Mogadishu%2C+Somalia+%F0%9F%87%B8%F0%9F%87%B4" alt="Building AI systems · Claude API · Next.js · Supabase" />
 </a>
 
-[![Website](https://img.shields.io/badge/abdisalan.me-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF)](https://abdisalan.me)
-[![AI Twin](https://img.shields.io/badge/Ask_my_AI_twin-0D1117?style=for-the-badge&logo=anthropic&logoColor=D97757)](https://abdisalan-ai.vercel.app)
+[![AI Twin](https://img.shields.io/badge/abdisalan.me_·_Ask_my_AI_twin-0D1117?style=for-the-badge&logo=anthropic&logoColor=D97757)](https://abdisalan.me)
 [![Asal Media](https://img.shields.io/badge/Asal_Media-0D1117?style=for-the-badge&logo=cloudflare&logoColor=F38020)](https://asalmediacorp.com)
 
 </div>
@@ -36,7 +35,7 @@ A digital twin that answers questions about my work, experience and how to reach
 
 `Next.js` `Claude API` `Vercel`
 
-[Live demo →](https://abdisalan-ai.vercel.app)
+[Live demo →](https://abdisalan.me)
 
 </td>
 <td width="50%" valign="top">
@@ -98,6 +97,6 @@ HR system running across Asal Media's 4 subsidiaries: payroll, leave, attendance
 
 <div align="center">
 
-Reach me at [abdisalan.me](https://abdisalan.me) or ask [my AI twin](https://abdisalan-ai.vercel.app).
+Chat with [my AI twin at abdisalan.me](https://abdisalan.me).
 
 </div>
